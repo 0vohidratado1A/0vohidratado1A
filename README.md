@@ -1,5 +1,6 @@
-## Não
-
+## Meu nome é Daniel
+ - Sou aluno do 1A
+ - Essa é minha página de estudos
 <!--
 **0vohidratado1A/0vohidratado1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
